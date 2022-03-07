@@ -1,8 +1,8 @@
 :root {
-  --blue: #273FAD;
-  --green: #3FAD27;
+  --purple: #4F29F0;
+  --green: #14A314;
   --red: 	#ad273f;
-  --background: #EBEBEB;
+  --background: #EAF1F5;
   --shapes: #FFFFFF;
   --text-title: #3D3D4D;
   --text: #1C1C29;
@@ -16,6 +16,7 @@
 }
 
 body {
+  background-color: var(--background);
   font: 16px "Poppins", Arial, sans-serif;
   color: #121214;
 }
