@@ -1,6 +1,6 @@
 section.task-list {
   background: var(--shapes);
-  background: linear-gradient(to right bottom, rgba(255,255,255,.7), rgba(255,255,255,.3));
+  // background: linear-gradient(to right bottom, rgba(255,255,255,.7), rgba(255,255,255,.3));
   backdrop-filter: blur(2rem);
   border-radius: 1rem;
   
@@ -76,7 +76,7 @@ section.task-list {
 
     ul {
       background-color: var(--shapes);
-      box-shadow: 0 10px 30px rgba(#414856, 0.1);
+      box-shadow: 0 5px 20px rgba(#414856, 0.2);
       border-radius: 1rem;
       list-style: none;
       padding: .25rem 0;
